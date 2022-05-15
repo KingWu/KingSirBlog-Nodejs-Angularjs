@@ -20,3 +20,8 @@
 
 ## 程式員技能
 [如何使用版本控制](http://www.kingsirblog.com/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E8%BB%9F%E4%BB%B6-source-tree/)
+
+
+# Powered By 
+- [Plaker Lab 創玩坊](https://plakerlab.com/)
+- [Wenjetso 搵著數](https://www.wenjetso.com/zh_HK/)
